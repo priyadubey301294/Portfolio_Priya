@@ -15,6 +15,7 @@ const skills = {
   ],
   cloud: [
     "Azure",
+    "AWS",
     "GCP",
     "Docker",
     "CI/CD",

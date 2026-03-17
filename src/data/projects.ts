@@ -12,6 +12,7 @@ export const projects = [
       "Express.js",
       "Micro-Frontend",
       "Azure",
+      "AWS",
       "CosmosDB",
     ],
     highlights: [
@@ -31,7 +32,7 @@ export const projects = [
     period: "2022 – 2025",
     description:
       "Secure payment platform integrating enterprise payment systems with modern web interfaces.",
-    tech: ["React.js", "Node.js", "REST APIs", "Azure", "CI/CD", "Docker"],
+    tech: ["React.js", "Node.js", "REST APIs", "Azure", "AWS","CI/CD", "Docker"],
     highlights: [
       "Built scalable frontend modules for payment workflows",
       "Designed secure API integrations",
@@ -48,7 +49,7 @@ export const projects = [
     period: "2022 – 2025",
     description:
       "Healthcare application supporting medical operations and enterprise data management.",
-    tech: ["React.js", "Node.js", "Next.js", "Azure", "PostgreSQL"],
+    tech: ["React.js", "Node.js", "Next.js", "Azure","AWS", "PostgreSQL"],
     highlights: [
       "Developed high-performance UI modules",
       "Integrated scalable backend APIs",
@@ -65,7 +66,7 @@ export const projects = [
     period: "2021 – 2022",
     description:
       "Enterprise ERP backend services supporting Microsoft Dynamics 365 modules.",
-    tech: [".NET Core", "C#", "REST APIs", "Azure"],
+    tech: [".NET Core", "C#", "REST APIs", "Azure", "AWS"],
     highlights: [
       "Developed modular backend services",
       "Enabled scalable enterprise workflows",
