@@ -8,10 +8,10 @@ const skills = {
     "Material UI"
   ],
   backend: [
+    ".NET Core",
     "Node.js",
     "Express.js",
     "REST APIs",
-    ".NET Core"
   ],
   cloud: [
     "Azure",

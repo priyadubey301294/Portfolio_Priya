@@ -30,7 +30,7 @@ export default function ExperienceTimeline() {
             {/* circle */}
 
             <div
-              className={`absolute -left-8 top-2 w-6 h-6 rounded-full ${job.color}`}
+              className={`absolute -left-10.5 top-2 w-6 h-6 rounded-full ${job.color}`}
             />
 
             {/* card */}

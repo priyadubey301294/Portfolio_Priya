@@ -12,7 +12,8 @@ export const experience = [
     ],
     achievements: [
       "Led development of enterprise-scale web platforms across healthcare and fintech domains.",
-      "Designed scalable full-stack applications using React.js, Node.js and Next.js used by thousands of global users.",
+      "Designed and developed scalable full-stack applications using .NET Core, React.js, Node.js and Next.js, supporting enterprise platforms used by thousands of users globally.",
+      "Used DbContext lifecycle, query tracking behaviours (tracking vs no-tracking), and EF Core performance optimization, along with hands-on experience in Code First approaches, migrations, and schema evolution.",
       "Implemented Micro-Frontend Architecture enabling independent deployments and reducing release cycles by 30%.",
       "Optimized REST API architecture improving backend response time by ~25%.",
       "Built CI/CD pipelines and deployed applications on Azure Kubernetes.",
@@ -29,7 +30,7 @@ export const experience = [
     projects: ["Dynamics 365 ERP"],
     achievements: [
       "Developed backend services supporting Dynamics 365 ERP modules.",
-      "Designed modular backend components for scalable enterprise workflows.",
+      "Designed modular backend components in .NET Core enabling scalable business workflows.",
       "Collaborated with cross-functional teams to integrate enterprise services.",
     ],
   },
@@ -42,6 +43,7 @@ export const experience = [
     color: "bg-blue-500",
     projects: ["Grange Insurance Portal"],
     achievements: [
+      "Implemented performance optimization strategies in backend using .NET Core, DBContext, EFCore and Node.js.",
       "Built responsive UI components using React.js for an enterprise insurance portal.",
       "Improved frontend performance and application reliability.",
       "Implemented robust error-handling mechanisms.",
@@ -56,6 +58,7 @@ export const experience = [
     color: "bg-orange-500",
     projects: ["United Airlines Platform", "Grange Insurance Portal"],
     achievements: [
+      "Designing and developing RESTful APIs using.NET Core, DBContext, EFCore.",
       "Implemented Redux Saga for scalable state management.",
       "Built internationalized applications supporting global users.",
       "Introduced unit testing frameworks improving reliability.",

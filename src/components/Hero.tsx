@@ -24,7 +24,7 @@ export default function Hero() {
 
       <div>
         <p>Passionate about delivering seamless user experiences through optimized performance and efficient code architecture.</p>
-        <p>Lead Software Engineer specializing in <b>React</b>, <b>Node.js</b>, and <b>cloud-native</b> architectures on AWS and <b>Azure</b> with 8+ years of experience delivering scalable enterprise applications. Strong background in <b>distributed systems</b>, <b>microservices</b>, <b>system design</b>, API architecture, and performance optimization. Experienced in building high-availability systems, implementing <b>CI/CD pipelines</b>, and deploying production-grade applications on cloud infrastructure. Passionate about building scalable platforms that improve reliability, performance, and user experience.</p>
+        <p>Lead Software Engineer specializing in <b>.NET Core</b>, <b>React</b>, <b>Node.js</b>, and <b>cloud-native</b> architectures on AWS and <b>Azure</b> with 8+ years of experience delivering scalable enterprise applications. Strong background in <b>distributed systems</b>, <b>microservices</b>, <b>system design</b>, API architecture, and performance optimization. Experienced in building high-availability systems, implementing <b>CI/CD pipelines</b>, and deploying production-grade applications on cloud infrastructure. Passionate about building scalable platforms that improve reliability, performance, and user experience.</p>
       </div>
 
     </section>

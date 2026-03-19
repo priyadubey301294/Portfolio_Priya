@@ -6,6 +6,7 @@ export const projects = [
     description:
       "Enterprise healthcare platform used globally for managing pharmaceutical operations and digital content delivery.",
     tech: [
+      ".NET Core",
       "React.js",
       "Next.js",
       "Node.js",
@@ -32,7 +33,16 @@ export const projects = [
     period: "2022 – 2025",
     description:
       "Secure payment platform integrating enterprise payment systems with modern web interfaces.",
-    tech: ["React.js", "Node.js", "REST APIs", "Azure", "AWS","CI/CD", "Docker"],
+    tech: [
+      ".NET Core",
+      "React.js",
+      "Node.js",
+      "REST APIs",
+      "Azure",
+      "AWS",
+      "CI/CD",
+      "Docker",
+    ],
     highlights: [
       "Built scalable frontend modules for payment workflows",
       "Designed secure API integrations",
@@ -49,7 +59,15 @@ export const projects = [
     period: "2022 – 2025",
     description:
       "Healthcare application supporting medical operations and enterprise data management.",
-    tech: ["React.js", "Node.js", "Next.js", "Azure","AWS", "PostgreSQL"],
+    tech: [
+      ".NET Core",
+      "React.js",
+      "Node.js",
+      "Next.js",
+      "Azure",
+      "AWS",
+      "PostgreSQL",
+    ],
     highlights: [
       "Developed high-performance UI modules",
       "Integrated scalable backend APIs",
@@ -83,7 +101,7 @@ export const projects = [
     period: "2020 – 2021",
     description:
       "Customer-facing insurance portal for policy management and service interactions.",
-    tech: ["React.js", "Redux", "Material UI", "REST APIs"],
+    tech: [".NET Core", "React.js", "Redux", "Material UI", "REST APIs"],
     highlights: [
       "Built responsive UI components",
       "Improved frontend performance and reliability",
